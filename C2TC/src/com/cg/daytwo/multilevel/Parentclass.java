@@ -1,4 +1,4 @@
-package com.cg.daytwo;
+package com.cg.daytwo.multilevel;
 
 public class Parentclass {
 void eat() {
