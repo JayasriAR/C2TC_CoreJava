@@ -1,4 +1,4 @@
-package Inheritance;
+package com.cg.daytwo;
 
 public class Parentclass {
 void eat() {
