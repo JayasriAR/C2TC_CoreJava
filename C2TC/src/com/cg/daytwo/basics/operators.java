@@ -1,4 +1,4 @@
-package com.cg.dayone;
+package com.cg.daytwo.basics;
 
 public class operators {
 

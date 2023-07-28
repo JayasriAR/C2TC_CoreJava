@@ -1,0 +1,14 @@
+package com.cg.daytwo.hierachical;
+
+public class Mainhier {
+	public static void main(String[] args) {
+		//calling dad method
+		Daughter1 ob1 = new Daughter1();
+		ob1.dad();
+		ob1.me();
+		Daughter2 ob = new Daughter2();
+		ob.dad();
+		ob.me();
+	}
+
+}
