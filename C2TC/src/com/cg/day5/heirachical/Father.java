@@ -1,4 +1,4 @@
-package com.cg.daytwo.hierachical;
+package com.cg.day5.heirachical;
 
 public class Father {
 	void dad(){
