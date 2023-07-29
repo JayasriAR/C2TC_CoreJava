@@ -1,4 +1,4 @@
-package com.cg.daytwo.basics;
+package com.cg.day2.basics;
 
 public class Conditionalstat {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.cg.daythree.Encapsulation;
+package com.cg.day3.Encapsulation;
 
 public class encapsulemain {
 

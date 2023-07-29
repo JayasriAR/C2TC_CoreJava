@@ -1,4 +1,4 @@
-package com.cg.dayone;
+package com.cg.day1;
 
 public class Typecast {
  public static void main(String[] args) {

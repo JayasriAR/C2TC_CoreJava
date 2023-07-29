@@ -1,4 +1,4 @@
-package com.cg.daytwo.basics;
+package com.cg.day2.basics;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.cg.daythree.Constructor;
+package com.cg.day3.Constructor;
 
 public class Constructcall {
 	//parameterized Constructor
