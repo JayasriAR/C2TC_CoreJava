@@ -1,7 +1,14 @@
 package com.cg.day5.multilevel;
 
 public class Country {
-Country() {
-	System.out.println("My Country is INDIA");
+private String Country;
+
+public String getCountry() {
+	return Country;
 }
+
+public void setCountry(String country) {
+	Country = country;
+}
+
 }

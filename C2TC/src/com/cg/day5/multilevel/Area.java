@@ -1,8 +1,14 @@
 package com.cg.day5.multilevel;
 
 public class Area extends State {
-	Area() {
-		System.out.println("Area : Pondy");
+	private String area;
+
+	public String getArea() {
+		return area;
 	}
 
+	public void setArea(String area) {
+		this.area = area;
+	}
+	
 }
