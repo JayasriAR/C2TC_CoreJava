@@ -24,6 +24,12 @@ public class MainOverride {
      
      obj=new ICICI();
      obj.Interest();
+     
+     System.out.println("_________Covariant override_______________");
+ 	Color c =new Color();
+	c.getcolor();
+	c=new Red();
+	c.getcolor();
 	
 	}
 
