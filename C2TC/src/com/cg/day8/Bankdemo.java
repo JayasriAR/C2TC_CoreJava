@@ -1,11 +1,11 @@
 package com.cg.day8;
 
 public class Bankdemo extends Person implements Bank{
- int balance=100000;
+ int balance=120000;
 	
  
 	public void withdraw(int amt) {
-		if(balance>=amt-Minbal) {
+		if(balance>=amt+Minbal) {
 			balance=balance-amt;
 			System.out.println("Your Balance after withdrawal is "+balance);
 		}
